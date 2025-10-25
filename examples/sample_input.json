@@ -1,0 +1,14 @@
+{
+  "project_name": "CarbonTrack",
+  "website_url": "https://carbontrack.example.com",
+  "description": "A comprehensive sustainability tracking application that helps individuals and organizations measure, monitor, and reduce their carbon footprint through AI-powered insights and actionable recommendations.",
+  "key_features": [
+    "Real-time carbon footprint tracking",
+    "AI-powered personalized recommendations",
+    "Community challenges and leaderboards",
+    "Integration with smart home devices",
+    "Detailed analytics and reports",
+    "Carbon offset marketplace"
+  ],
+  "tone": "professional"
+}

@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# CarbonTrack AI Agent specific
+# Playwright outputs
+playwright-report/
+test-results/
+videos/
+screenshots/
+
+# Output files
+output/
+temp/
+*.mp4
+*.webm
+
+# LinkedIn credentials (extra safety)
+linkedin_credentials.json
+secrets.json
+*.credentials

@@ -1,0 +1,47 @@
+# CarbonTrack AI Agent - Dependencies
+# All open-source packages
+
+# Core LangChain (Grok's simplified version)
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-core>=0.1.0
+
+# LLM Providers
+# Ollama (local open-source LLM) - Grok recommended
+ollama>=0.1.0
+langchain-ollama>=0.0.1
+
+# OpenAI compatible API (for Grok via xAI API)
+openai>=1.0.0
+
+# Browser automation for video creation (Grok recommended)
+playwright>=1.40.0
+
+# LinkedIn API and HTTP requests (Grok recommended)
+requests>=2.31.0
+
+# Configuration and environment (Grok recommended)
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Utilities
+python-json-logger>=2.0.0
+colorama>=0.4.6
+rich>=13.0.0
+
+# CLI
+typer>=0.9.0
+click>=8.1.0
+
+# Optional: Video processing
+opencv-python>=4.8.0
+pillow>=10.0.0
+
+# Testing (dev dependencies)
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0

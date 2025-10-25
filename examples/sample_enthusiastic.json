@@ -1,0 +1,13 @@
+{
+  "project_name": "FitQuest",
+  "website_url": "https://fitquest.app",
+  "description": "Transform your fitness journey into an epic adventure! FitQuest gamifies workouts with quests, achievements, and a vibrant community.",
+  "key_features": [
+    "Turn workouts into exciting quests",
+    "Earn XP and unlock achievements",
+    "Join guilds and compete with friends",
+    "Track progress with beautiful visualizations",
+    "Personalized workout recommendations"
+  ],
+  "tone": "enthusiastic"
+}

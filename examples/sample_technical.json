@@ -1,0 +1,13 @@
+{
+  "project_name": "DevTools Pro",
+  "website_url": "https://devtools.pro",
+  "description": "A revolutionary developer productivity suite with AI pair programming, code review automation, and intelligent debugging tools.",
+  "key_features": [
+    "AI-powered pair programming assistant",
+    "Automated code review and suggestions",
+    "Intelligent debugging with root cause analysis",
+    "Cross-IDE compatibility",
+    "Team collaboration features"
+  ],
+  "tone": "technical"
+}
